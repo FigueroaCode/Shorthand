@@ -1,4 +1,20 @@
-# shorthand package
+switch(bird)
+{
+	case 0:
 
+		break;
+	case 1:
 
-![A screenshot of your package](https://f.cloud.github.com/assets/69169/2290250/c35d867a-a017-11e3-86be-cd7c5bf3ff9b.gif)
+		break;
+	case 2:
+
+		break;
+	case 3:
+
+		break;
+	case 4:
+
+		break;
+	default:
+
+}
