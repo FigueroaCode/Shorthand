@@ -1,10 +1,9 @@
 {
   "name": "Shorthand",
   "main": "./lib/shorthand",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "This plugin allows users to use shorthand notation, and expand it into functional Java codes.",
-  "keywords": [
-  ],
+  "keywords": [],
   "activationCommands": {
     "atom-workspace": "shorthand:toggle"
   },
@@ -13,6 +12,5 @@
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   },
-  "dependencies": {
-  }
+  "dependencies": {}
 }
