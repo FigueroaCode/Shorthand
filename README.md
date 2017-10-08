@@ -1,4 +1,4 @@
-This plugin allows users to use shorthand notation, and expand it into common Java loops.
+This plugin allows users to use shorthand notation, and expand it into functional Java codes.
 
 To convert a shorthand phrase into functional code, select the text and press Alt-X.
 
